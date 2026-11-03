@@ -31,9 +31,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img width="720" height="405" alt="Tfl Live Status Tracker" src="https://github.com/user-attachments/assets/tfl-live-status-tracker-banner" />
-</div>
 
 ---
 
