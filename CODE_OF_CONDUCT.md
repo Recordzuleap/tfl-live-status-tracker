@@ -20,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=27&center=true&vCenter=true&width=920&lines=🚇+Tfl+Live+Status+Tracker;📡+Tube+%2B+Bus+%2B+DLR;⏱️+Live+Refresh;💙+100%25+Free+Guide">
-</p>
+
 
 <!-- Button 1 -->
 <div align="center">
